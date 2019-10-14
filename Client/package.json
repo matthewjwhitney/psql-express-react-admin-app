@@ -12,7 +12,7 @@
     "radium": "^0.24.1",
     "react": "^16.4.1",
     "react-big-calendar": "^0.19.2",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-motion": "^0.5.2",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
